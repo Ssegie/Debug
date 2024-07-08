@@ -1,0 +1,90 @@
+name: food_dash
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  collection: ^1.18.0
+  firebase_core: ^3.1.1
+  http_parser: ^4.0.2
+  leak_tracker: ^10.0.4
+  leak_tracker_flutter_testing: ^3.0.3
+  lints: ^4.0.0
+  material_color_utilities: ^0.8.0
+  meta: ^1.12.0
+  test_api: ^0.7.0
+  vm_service: ^14.2.1
+  typed_data: ^1.3.2
+  get: ^4.6.6
+  cupertino_icons: ^1.0.6
+  line_awesome_flutter: ^3.0.1
+  firebase_auth: ^5.1.1
+  firebase_auth_web: ^5.12.3
+  firebase_auth_platform_interface: ^7.4.1
+
+
+
+
+  flutter_launcher_icons: ^0.13.1
+ 
+  path_drawing: ^1.0.1
+  path_provider: ^2.0.1
+  provider: ^6.1.2
+  path_parsing: ^1.0.1
+  petitparser: ^6.0.2
+
+  xml: ^6.5.0
+  
+
+  
+  
+
+  
+  flutter_svg: ^2.0.10+1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/assets/images/burger.jpg
+    - lib/assets/images/burger combo+ drinks.jpg
+    - lib/assets/images/posho+fish.jpg
+    - lib/assets/images/vegetable chicken.jpg
+    - lib/assets/images/vegetable noodles.jpg
+    - lib/assets/images/snacks.jpg
+    - lib/assets/images/youghut.jfif
+    - lib/assets/images/rolex.jfif
+    - lib/assets/images/paste gnuts.jfif
+    - lib/assets/images/pilau beef lusania.jpg
+    - lib/assets/images/chips+fish.jfif
+    - lib/assets/images/casava chips.jpg
+    - lib/assets/images/pineapple juice.jfif
+    - lib/assets/images/sausagevip.jpg
+    - lib/assets/images/pizza combo.jpg
+    - lib/assets/images/pilau+fish.jpg
+    - lib/assets/images/chicken favourite.jpg
+    - lib/assets/images/chips chicken salads.jfif
+    - lib/assets/images/chapati.jfif
+    - lib/assets/images/all favourites ice cream.jfif
+    - lib/assets/images/pilau+beef.jpg
+    - lib/assets/images/sausage breakfast.jpg
+    - lib/assets/images/youghut tinned.jfif
+    - lib/assets/images/EggRoll.jpg
+    - lib/assets/images/chapatifestival.jpg
+    - lib/assets/images/rolex.jfif
+    - lib/assets/images/chips+chicken.jpg
+    - lib/assets/images/chips chicken salads.jfif
+    - lib/assets/images/profile.jpg
+    - lib/assets/images/barnerr.jpg
+    - lib/assets/images/chicken.jpg
+    - lib/assets/images/meal.jpg
+  # No need to specify app icons here, they are automatically picked from the res directories
